@@ -2,3 +2,4 @@ protobuf
 streamlit
 google-generativeai
 openai
+langchain-google-genai
